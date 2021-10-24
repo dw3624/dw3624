@@ -3,12 +3,6 @@
   </img>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dw3624&include_all_commits=true&show_icons=true&hide=issues,contribs&title_color=2B463C&text_color=2B463C&icon_color=688F4E&bg_color=FDFBFB" target="_blank"></img>
-</p>
-
-<br>
-
 <h3 align="center">Tech Stack</h3>
 <p align="center">Techs that I've used at least once</p>
 
@@ -23,6 +17,17 @@
 </p>
 
 <br>
+<br>
+
+<p align="center">
+  <a href="https://solved.ac/dw3624"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dw3624"></img></a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dw3624&include_all_commits=true&show_icons=true&hide=issues,contribs&title_color=2B463C&text_color=2B463C&icon_color=688F4E&bg_color=FDFBFB" target="_blank"></img>
+</p>
+
+<br>
+<br>
 
 <h3 align="center">ME</h3>
 
@@ -31,12 +36,7 @@
     <a href="mailto:dw3624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
     <a href="https://www.instagram.com/chamchikang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 </p>
-<p align="center">
-  <a href="https://solved.ac/dw3624"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dw3624"></img></a>
-</p>
 
-
-<br>
 <br>
 
 <p align="center">
