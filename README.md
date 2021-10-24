@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=2B463C&text=%20DongwonKang%20%20&fontColor=FDFBFB&height=200&fontSize=100)
 
-Tech Stack
-Techs that I've used at least once
+<h3>Tech Stack</h3>
+<p>Techs that I've used at least once</p>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL3&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
@@ -17,11 +17,10 @@ Techs that I've used at least once
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dw3624)](https://solved.ac/dw3624)
 
-ME
-github.io Gmail Instagram
+<h3>ME</h3>
 <a href="https://dw3624.github.io" target="_blank"><img src="https://img.shields.io/badge/myblog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 <a href="mailto:dw3624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 <a href="https://www.instagram.com/chamchikang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 
-hits
+<h3?hits</h3>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdw3624%2Fhit-counter&count_bg=%2377BA4A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
