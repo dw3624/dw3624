@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=2B463C&text=%20%20DongwonKang%20%20&fontColor=FDFBFB&height=200&fontSize=100">
-  </img>
-</p>
-
 <h3 align="center">Tech Stack</h3>
 <p align="center">Techs that I've used at least once</p>
 
