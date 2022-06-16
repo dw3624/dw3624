@@ -55,5 +55,7 @@
 
 <p>
     <a href="https://solved.ac/dw3624"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dw3624"></img>
+</p>
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=dw3624&include_all_commits=true&show_icons=true&hide=issues,contribs&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF" target="_blank"></img></a>
 </p>
