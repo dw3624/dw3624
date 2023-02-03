@@ -3,8 +3,10 @@
 	<a href="mailto:dw3624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p>👋 Hi there! I'm Dongwon Kang, a Frontend Developer. Also interested in Data Analysis.</p>
-<p>Sometimes I develop backend server or database with django or flask.</p>
+<p>
+	👋 Hi there! I'm Dongwon Kang, a Frontend Developer.<br/>
+	Sometimes I develop backend server or database with django or flask.
+</p>
 
 <br>
 <br>
@@ -54,8 +56,10 @@
 <br>
 
 <p>
-    <a href="https://solved.ac/dw3624"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dw3624"></img>
+    <a href="https://solved.ac/dw3624">
+		<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dw3624"></img>
 </p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dw3624&include_all_commits=true&show_icons=true&hide=issues,contribs&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF" target="_blank"></img></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=dw3624&include_all_commits=true&show_icons=true&hide=issues,contribs&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF" target="_blank"></img>
+	</a>
 </p>
